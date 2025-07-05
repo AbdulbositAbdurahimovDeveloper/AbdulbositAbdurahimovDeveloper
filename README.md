@@ -66,5 +66,9 @@
 ### 🐍 GitHub hissam "ilon o'yini" ko'rinishida:
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/AbdulbositAbdurahimovDeveloper/AbdulbositAbdurahimovDeveloper/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+<p align="center">
   <img src="https://github.com/AbdulbositAbdurahimovDeveloper/AbdulbositAbdurahimovDeveloper/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
