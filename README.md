@@ -75,13 +75,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulbositAbdurahimovDeveloper&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulbositAbdurahimovDeveloper&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulbositAbdurahimovDeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulbositAbdurahimovDeveloper&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-
 ---
 
 ### 🐍 Contribution Graph
