@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulbositAbdurahimovDeveloper&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulbositAbdurahimovDeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 ---
 
